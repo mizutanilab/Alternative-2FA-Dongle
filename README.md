@@ -5,4 +5,7 @@ This device is not a fake.
 
 # Schematic
 A very standard one.  
-<img alt=schematic src="pics/shcematic.png"><BR>
+<img alt=schematic src="pics/schematic.png"><BR>
+
+# Host app
+<img alt=screenShot src="pics/hostapp.png"><BR>

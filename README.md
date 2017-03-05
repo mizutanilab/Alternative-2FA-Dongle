@@ -4,7 +4,7 @@ This device is not a fake.
 <IMG alt=LCDdisp src="pics/Alt2FA_LCDdisp.png"><BR>
 
 # Schematic
-A very common circuit.  
+A combination of very common circuits.  
 <img alt=schematic src="pics/schematic.png"><BR>
 
 # Host app

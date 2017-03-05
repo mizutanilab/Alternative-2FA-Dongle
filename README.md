@@ -1,5 +1,5 @@
 # Alternative Two-Factor Auth Dongle
-A standalone two-factor authentication device that work with Google Authenticator  
+A standalone two-factor authentication device that work with GitHub, Google, Facebook, and so on  
 This device is not a fake.  
 <IMG alt=LCDdisp src="pics/Alt2FA_LCDdisp.png"><BR>
 

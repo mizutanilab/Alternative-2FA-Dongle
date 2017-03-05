@@ -1,5 +1,5 @@
-# Alternative Two-Factor Auth Dongle
-A standalone two-factor authentication (2FA) device that work with GitHub, Google, Facebook, and so on  
+# Alternative Two-Factor Auth Device
+A standalone hardware token that works with the two-factor authentication (2FA) for GitHub, Google, Facebook, and so on  
 This device is not a fake.  
 <IMG alt=LCDdisp src="pics/Alt2FA_LCDdisp.png"><BR>
 

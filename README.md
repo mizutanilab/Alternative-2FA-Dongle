@@ -5,6 +5,8 @@ This device is not a fake.
 
 # Schematic
 A combination of very common circuits.  
+MCU: PIC18F2553  
+LCD controller: ST7032i  
 <img alt=schematic src="pics/schematic.png"><BR>
 
 # Host app

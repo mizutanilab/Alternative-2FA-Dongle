@@ -4,5 +4,5 @@ This device is not a fake.
 <IMG alt=LCDdisp src="pics/Alt2FA_LCDdisp.png"><BR>
 
 # Schematic
-A very standard one.
+A very standard one.  
 <img alt=schematic src="pics/shcematic.png"><BR>

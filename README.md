@@ -1,6 +1,5 @@
 # Alternative two-factor authentication device
-A standalone hardware token that works with the two-factor authenticator of GitHub, Google, Facebook, and so on.  
-This device is not a fake.  
+A standalone hardware token that works with the two-factor authenticator of GitHub, Google, Facebook, and so on.   
 <IMG alt=LCDdisp src="pics/Alt2FA_LCDdisp.png"><BR>
 
 # Schematic

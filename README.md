@@ -1,4 +1,4 @@
-# Alternative two-factor authenticator device
+# <a href="https://github.com/mizutanilab/Alternative-2FA-Dongle">Alternative two-factor authenticator device</a>
 A standalone hardware token that works with the two-factor authentication for GitHub, Google, Facebook, and so on.   
 <IMG alt=LCDdisp src="pics/Alt2FA_LCDdisp.png"><BR>
 
